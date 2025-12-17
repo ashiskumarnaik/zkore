@@ -1,0 +1,15 @@
+# IDE
+.idea
+
+# Rust build artifacts
+/target/
+**/*.rs.bk
+*.pdb
+
+# Cargo
+debug/
+target/
+
+# Environment variables
+.env
+.env.local
